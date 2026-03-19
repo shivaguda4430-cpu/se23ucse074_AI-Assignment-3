@@ -51,12 +51,15 @@ Heuristic used:
 ---
 
 ## Project Structure
-UGV_Pathfinder
-│
-├── main.py
-├── README.md
-└── output_images/
 
+```bash
+
+Q2_UGVpathfinder/
+├── README.md
+├── code.py
+└── requirements.txt
+
+```
 ---
 
 ## Requirements
@@ -125,5 +128,6 @@ This project demonstrates how the A* algorithm can efficiently find optimal path
 ---
 
 ## Author
-G.Shiva Reddy 
+
+G.Shiva Reddy  
 B.Tech Computer Science
