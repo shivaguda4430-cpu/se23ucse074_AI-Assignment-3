@@ -31,7 +31,6 @@ g(n) = cost from start node to current node
 
 ## Project Structure
 Q1_dijkstra/
-│
 ├── .env.example
 ├── .gitignore
 ├── README.md
