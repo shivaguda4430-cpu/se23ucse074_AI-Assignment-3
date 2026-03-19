@@ -53,11 +53,14 @@ When the path becomes blocked:
 ---
 
 ## Project Structure
-UGV_Dynamic_Pathfinder
-│
-├── main.py
+
+```bash
+
+Q3_UGVdynamic/
 ├── README.md
-└── output_images/
+├── code.py
+└── requirements.txt
+```
 
 ---
 
@@ -130,5 +133,6 @@ This project demonstrates how A* can be extended to handle dynamic environments 
 ---
 
 ## Author
-G.Shiva Reddy
+
+G.Shiva Reddy  
 B.Tech Computer Science
