@@ -30,13 +30,12 @@ g(n) = cost from start node to current node
 - Error handling for API failures
 
 ## Project Structure
-AI_Search_Assignment
+Q1_dijkstra/
 │
-├── main.py
-├── distance_store.json
-├── .env
-└── README.md
-
+├── .env.example
+├── .gitignore
+├── README.md
+└── code.py
 ## Requirements
 - Python 3.x
 - requests library
